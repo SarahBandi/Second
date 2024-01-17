@@ -1,0 +1,65 @@
+body {
+    background-color: #f0e7f5;
+}
+
+#firstdiv {
+    background-color: #f3dcdc;
+    border: rgb(255, 255, 255);
+    border-radius: 0.5px;
+    border-style: solid;
+    padding: 40px;
+
+}
+
+section {
+    float: right;
+    background-color: rgb(245, 190, 188);
+    border: rgb(245, 190, 188);
+    border-radius: 1px;
+    border: rgb(255, 255, 255);
+    border-style: solid;
+    padding: 40px;
+    color: rgb(225, 17, 110);
+    width: 20%;
+}
+
+.sev {
+    background-color: rgb(154, 153, 150);
+    width: 20%;
+    height: 200px;
+    float: left;
+    border: rgb(255, 255, 255);
+    border-radius: 0.5px;
+    border-style: solid;
+}
+
+.sev1 {
+    background-color: rgb(154, 153, 150);
+    width: 80%;
+    height: 323px;
+    border: rgb(255, 255, 255);
+    border-radius: 0.5px;
+    border-style: solid;
+    float: left;
+    padding-right: 15px;
+}
+
+#fifdiv {
+    background-color: rgb(245, 190, 188);
+    border: rgb(255, 255, 255);
+    border-radius: 0.5px;
+    border-style: solid;
+    padding: 40px;
+    text-align: right;
+    color: rgb(225, 17, 110);
+}
+
+#sixdiv {
+    background-color: #f3dcdc;
+    border: rgb(255, 255, 255);
+    border-radius: 0.5px;
+    border-style: solid;
+    padding: 50px;
+    text-align: center;
+    color: rgb(225, 17, 110);
+}
